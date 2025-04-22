@@ -1,4 +1,4 @@
-# 👋 Michael Di Giantomasso
+# 👋 Pathfinding Algorithm
 
 🎓 Commerce & Computer Science @ Monash  
 💡 Interested in data, backend systems, and clean, practical code  
