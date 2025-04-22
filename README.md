@@ -1,9 +1,5 @@
 # 👋 Pathfinding Algorithm
 
-🎓 Commerce & Computer Science @ Monash  
-💡 Interested in data, backend systems, and clean, practical code  
-🛠 Python, SQL, Java, R | Git, Tableau | Agile-minded
-
 ## 🔧 Highlight Project
 
 ### ✈️ Multi-Modal Pathfinding Algorithm
